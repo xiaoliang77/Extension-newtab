@@ -1,4 +1,4 @@
-var key_url = 'https://www.wuzhuiso.com/s?q=';
+var key_url = 'https://cn.bing.com/search?q=';
 
 function out_s() {
     const search = $("#txt").val();
